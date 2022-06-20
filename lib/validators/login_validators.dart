@@ -1,7 +1,7 @@
 import 'dart:async';
 
 class LoginValidators {
-
+//verificação basica -> Pubspec.yaml
   final validateEmail = StreamTransformer<String, String>.fromHandlers(
     handleData: (email, sink){
       if(email.contains("@")){
