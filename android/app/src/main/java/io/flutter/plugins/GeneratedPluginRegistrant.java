@@ -10,6 +10,7 @@ import io.flutter.plugins.imagepicker.ImagePickerPlugin;
 
 /**
  * Generated file. Do not edit.
+ *
  */
 public final class GeneratedPluginRegistrant {
   public static void registerWith(PluginRegistry registry) {
